@@ -5,13 +5,11 @@ function App() {
   const palindromo = (cadena) => {
     const palabra = cadena.split("");
     const reverse = palabra.reverse();
-    setWord("")
+    setWord("");
     return cadena === reverse.join("")
       ? console.log("si es")
       : console.log("no es");
   };
-
-  
 
   return (
     <div className="container my-5">
