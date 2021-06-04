@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/palindromo/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/palindromo/static/js/main.46ecbb69.chunk.js",
+    "main.js.map": "/palindromo/static/js/main.46ecbb69.chunk.js.map",
+    "runtime-main.js": "/palindromo/static/js/runtime-main.775d5417.js",
+    "runtime-main.js.map": "/palindromo/static/js/runtime-main.775d5417.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/palindromo/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.00553b66.chunk.js": "/palindromo/static/js/2.00553b66.chunk.js",
+    "static/js/2.00553b66.chunk.js.map": "/palindromo/static/js/2.00553b66.chunk.js.map",
+    "index.html": "/palindromo/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/palindromo/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/palindromo/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.00553b66.chunk.js.LICENSE.txt": "/palindromo/static/js/2.00553b66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.775d5417.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.00553b66.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.46ecbb69.chunk.js"
+  ]
+}
