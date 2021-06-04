@@ -23,12 +23,12 @@ function App() {
       </button>
       <div>
         <div>
-          {words.map((wordtext, index) => (
+          {words.map((word, index) => (
             <div key={index}>
-              <h3>{wordtext.name}</h3>
+              <h3>{word.name}</h3>
               <div>
                 Resultado:
-                {wordtext.esPalindromo && wordtext.name ? (
+                {word.esPalindromo && word.name ? (
                   <div>Si es un palindromo</div>
                 ) : (
                   <div>No un palindromo</div>
